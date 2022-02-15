@@ -1,7 +1,0 @@
-# Pizza bot program 
-import random 
-from random import randint 
-
-
-# List of random names
-names = ["James", "Michael", "Jess", "David", "Lynux", "Jacob", "Sarah", "Mary", "Nate", "Mikaela"]
