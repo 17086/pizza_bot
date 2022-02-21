@@ -4,7 +4,7 @@ print ("Please enter the pickup information")
 #customer name
 valid = False 
 while not valid:
-    name = input ("Please enter your name")
+    name = input ("Please enter your name ")
     if name != "":
         print (name)
         break 
@@ -16,7 +16,7 @@ while not valid:
 #customers phone number
 valid = False 
 while not valid: 
-    phone = input("Please enter your phone number")
+    phone = input("Please enter your phone number ")
     if phone != "":
         print (phone)
         break 
