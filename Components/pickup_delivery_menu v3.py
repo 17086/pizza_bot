@@ -1,10 +1,10 @@
 # Bug - need to make it so that it only accpets 1 or 2
 # menu so that choose either pickup or delviery 
 
-print ("Is your order for pickup or delivery?")
-
-print (" For pickup enter 1.")
-print (" For delivery enter 2.")
+def pickup():
+    print ("Is your order for pickup or delivery?")
+    print (" For pickup enter 1.")
+    print (" For delivery enter 2.")
 
 
 low = 1
